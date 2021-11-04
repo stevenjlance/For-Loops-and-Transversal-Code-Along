@@ -23,7 +23,7 @@ for(var i = 0; i < 10; i++){
 
 
 
-// 5. Log out every multiple of 2 and every multiple of 3 up to 100
+// 5. Log out every multiple of 2 AND 3 up to 100
 
 
 
